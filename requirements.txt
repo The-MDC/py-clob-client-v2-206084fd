@@ -1,4 +1,4 @@
-black==24.4.2
+black==26.10.1
 eth-account==0.13.0
 eth-utils==4.1.1
 poly_eip712_structs==0.0.1
